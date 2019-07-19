@@ -1,0 +1,22 @@
+<!ELEMENT croub (header, nav, footer)>
+<!ELEMENT header ( header-menu+)>
+<!ELEMENT header-menu (titre, sous-titre*)>
+
+<!ELEMENT nav (rubrique+)>
+
+<!ELEMENT titre (#PCDATA)>
+<!ELEMENT sous-titre (#PCDATA)>
+<!ATTLIST  header-menu url CDATA #REQUIRED>
+
+<!ELEMENT rubrique (label*, image*, contenu+)>
+<!ELEMENT contenu (contenu-titre1*| message*|contenu-titre2*|message-contenu*)*>
+<!ELEMENT label (#PCDATA)>
+
+<!ELEMENT image (#PCDATA)>
+<!ELEMENT contenu-titre1 (#PCDATA)>
+<!ELEMENT message (#PCDATA)>
+<!ELEMENT contenu-titre2 (#PCDATA)>
+<!ELEMENT message-contenu (#PCDATA)>
+<!ATTLIST rubrique nom CDATA #REQUIRED>
+
+<!ELEMENT footer (#PCDATA)>

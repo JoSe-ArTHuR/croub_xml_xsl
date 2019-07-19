@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/hebergement-xsl.xslt"?>
+<hebergement>
+
+<header>
+		<header-menu url="index.xml">
+			<titre>Accueil</titre>
+		</header-menu>
+		
+		<header-menu url="restauration.xml">
+			<titre>Restauration</titre>
+		</header-menu>
+		
+		<header-menu url="hebergement.xml">
+			<titre>Hebergement</titre>
+		</header-menu>
+		<header-menu url="sante.xml">
+			<titre>Service sanitaire</titre>
+		</header-menu>
+	</header>
+	
+	<beneficiaire>
+	        <label>Hébergement</label>
+	        
+	        <libelle>
+	                     Au regard de l'origine socio-géographique d'un grand nombre d'étudiants l'hébergement constitue une prestation essentielle 
+	                     des activités du CROUB. En moyenne l'étudiant débourse entre 1000 et 1500 F CFA par mois pour accéder au logement. 
+	                     Le caractère social de cette offre entraîne une forte demande de la part des étudiants qui arrivent de villes différentes de 
+	                     celles de leur université.
+	        </libelle>
+	        
+			<cite>
+			<image3>D:\Formation\web_AvePLUS\static\src\img\aa.jpg </image3>
+			<h4>Conditions d'accès à l'hébergement:</h4>
+			<h5> 
+			            Sont habilités à soumettre un dossier d’admission en cité, les élèves nouvellement admis au baccalauréat en instance 
+			            d’obtenir une inscription à l’université ou les étudiants régulièrement inscrits dans une université publique ou privée 
+			            conventionnée du Burkina Faso. L’admission est prononcée pour l’année académique en cours. Toutefois, le séjour en cité 
+			            ne peut excéder deux (02) années académiques.
+			            
+			            Exception est cependant faite aux étudiants vivant avec un handicap dont la durée du séjour est fixée à quatre ans.
+			            Sont autorisés à déposer une fiche de réadmission les étudiants ayant un séjour d’un (01) an dans les cités.
+			            Les dates de retrait et de dépôt des dossiers d’admission et réadmission sont fixées à la fin de chaque année académique 
+			            par une note du Directeur du centre régional des œuvres universitaires.
+			            Sur le nombre de lits disponibles après la réadmission, 60% sont réservés aux filles.
+			            En l’absence de pavillon de mariés, les couples ne sont pas acceptés en cités universitaires.
+			            
+			            Les pièces constitutives du dossier de demande d’admission comprend :
+ 
+•Une (01) demande d’admission dûment remplie ;
+•Une (01) photocopie légalisée du livret de famille
+•Une (01) photocopie de la quittance d’adhésion à la MUNASEB
+•Un certificat médical établi par le CENOU ;
+•Un (01) engagement pour le strict respect des statuts et règlements intérieur des cités;
+•Un (01) engagement d’une caution personnelle et solidaire du père ou du tuteur ;
+•Une (01) photocopie de la carte nationale d’identité ou de la carte consulaire ;
+•Une (01) photocopie de l’attestation provisoire du BAC pour les nouveaux bacheliers ;
+•Une (01) photocopie légalisée du relevé de note du baccalauréat pour les nouveaux bacheliers ;
+•Une (01) photocopie de la carte CENOU pour les étudiants déjà inscrits.
+			            
+			</h5>
+		
+			</cite>
+			  <etudiant sexe="Masculin" readmission="non">
+				<nom>TRAORE</nom>
+				<prenom>Go Issa</prenom>
+				<dateNaisse>25/01/2001</dateNaisse>
+				<Filliere>ESI</Filliere>
+				<nationalite>Burkinabe</nationalite>
+			  </etudiant>
+			 <etudiant sexe="Masculin" readmission="oui">
+				<nom>TEBDA</nom>
+				<prenom>Bernabe</prenom>
+				<dateNaisse>12/03/1996</dateNaisse>
+				<Filliere>LSI</Filliere>
+				<nationalite>Burkinabe</nationalite>
+			  </etudiant>
+			  <etudiant sexe="Feminin" readmission="non">
+				<nom>TAHOURA</nom>
+				<prenom>Salimatou</prenom>
+				<dateNaisse>12/07/1995</dateNaisse>
+				<Filliere>MPI</Filliere>
+				<nationalite>Burkinabe</nationalite>
+			  </etudiant>
+			  <etudiant sexe="Feminin" readmission="oui">
+				<nom>OUEDRAOGO</nom>
+				<prenom>Leticia</prenom>
+				<dateNaisse>05/06/1994</dateNaisse>
+				<Filliere>Science Biologique</Filliere>
+				<nationalite>Burkinabe</nationalite>
+			  </etudiant>
+			  <etudiant sexe="Masculin" readmission="non">
+				<nom>BAMOGO</nom>
+				<prenom>Moussa</prenom>
+				<dateNaisse>04/12/1993</dateNaisse>
+				<Filliere>ESI</Filliere>
+				<nationalite>Burkinabe</nationalite>
+			  </etudiant>
+			  <etudiant sexe="Masculin" readmission="non">
+				<nom>TRAORE</nom>
+				<prenom>Mamadou</prenom>
+				<dateNaisse>13/04/2002</dateNaisse>
+				<Filliere>LSI</Filliere>
+				<nationalite>Burkinabe</nationalite>
+			  </etudiant>
+			  <etudiant sexe="Masculin" readmission="non">
+				<nom>KAGONE</nom>
+				<prenom>Victor</prenom>
+				<dateNaisse>14/02/1992</dateNaisse>
+				<Filliere>IDR</Filliere>
+				<nationalite>Burkinabe</nationalite>
+			  </etudiant>
+			  <etudiant sexe="Masculin" readmission="non">
+				<nom>TOURE</nom>
+				<prenom>Issouf</prenom>
+				<dateNaisse>03/12/1991</dateNaisse>
+				<Filliere>IDR</Filliere>
+				<nationalite>Ivoirien</nationalite>
+			  </etudiant>
+			  <etudiant sexe="Feminin" readmission="non">
+				<nom>KAMBIRE</nom>
+				<prenom>Celestine</prenom>
+				<dateNaisse>01/01/1998</dateNaisse>
+				<Filliere>FC</Filliere>
+				<nationalite>Burkinabe</nationalite>
+			  </etudiant>
+			  <etudiant sexe="Masculin" readmission="oui">
+				<nom>Diouf</nom>
+				<prenom>Omar</prenom>
+				<dateNaisse>14/05/1996</dateNaisse>
+				<Filliere>GIM</Filliere>
+				<nationalite>Senegalais</nationalite>
+			  </etudiant>
+			  <etudiant sexe="Feminin" readmission="oui">
+				<nom>TAPSOBA</nom>
+				<prenom>Alimatou</prenom>
+				<dateNaisse>15/06/200</dateNaisse>
+				<Filliere>SEG</Filliere>
+				<nationalite>Burkinabe</nationalite>
+			  </etudiant>
+			  <etudiant sexe="Masculin" readmission="oui">
+				<nom>KARA</nom>
+				<prenom>Seydou</prenom>
+				<dateNaisse>12/05/1996</dateNaisse>
+				<Filliere>MPI</Filliere>
+				<nationalite>Burkinabe</nationalite>
+			  </etudiant>
+			  <etudiant sexe="Masculin" readmission="non">
+				<nom>KARAMBIRI</nom>
+				<prenom>Salif</prenom>
+				<dateNaisse>15/05/1994</dateNaisse>
+				<Filliere>Medecin</Filliere>
+				<nationalite>Burkinabe</nationalite>
+			  </etudiant>
+			  <etudiant sexe="Feminin" readmission="non">
+				<nom>OUEDRAOGO</nom>
+				<prenom>Chantal</prenom>
+				<dateNaisse>13/02/1991</dateNaisse>
+				<Filliere>IDR</Filliere>
+				<nationalite>Burkinabe</nationalite>
+			  </etudiant>
+			  <etudiant sexe="Masculin" readmission="oui">
+				<nom>SANOU</nom>
+				<prenom>Moussa</prenom>
+				<dateNaisse>10/02/1996</dateNaisse>
+				<Filliere>ESI</Filliere>
+				<nationalite>Burkinabe</nationalite>
+			  </etudiant>
+			  <etudiant sexe="Femini" readmission="non">
+				<nom>SANOU</nom>
+				<prenom>Pascaline</prenom>
+				<dateNaisse>02/03/1996</dateNaisse>
+				<Filliere>Genie Civil</Filliere>
+				<nationalite>Burkinabe</nationalite>
+			  </etudiant>
+			  <etudiant sexe="Feminin" readmission="oui">
+				<nom>BARRY</nom>
+				<prenom>Sita</prenom>
+				<dateNaisse>06/04/1997</dateNaisse>
+				<Filliere>LSI</Filliere>
+				<nationalite>Malienne</nationalite>
+			  </etudiant>
+			  <etudiant sexe="Feminin" readmission="non">
+				<nom>SANGARE</nom>
+				<prenom>Setou</prenom>
+				<dateNaisse>14/07/1993</dateNaisse>
+				<Filliere>FC</Filliere>
+				<nationalite>Ivoirienne</nationalite>
+			  </etudiant>
+			  <etudiant sexe="Masculin" readmission="non">
+				<nom>SANKARA</nom>
+				<prenom>Thomas</prenom>
+				<dateNaisse>12/03/2002</dateNaisse>
+				<Filliere>Pharmacie</Filliere>
+				<nationalite>Burkinabe</nationalite>
+			  </etudiant>
+			  <etudiant sexe="Masculin" readmission="non">
+				<nom>TOURE</nom>
+				<prenom>Soumaîla</prenom>
+				<dateNaisse>23/06/1994</dateNaisse>
+				<Filliere>GMP</Filliere>
+				<nationalite>Ivoirien</nationalite>
+			  </etudiant>
+			  <etudiant sexe="Masculin" readmission="non">
+				<nom>DAO</nom>
+				<prenom>Yacouba</prenom>
+				<dateNaisse>26/09/1665</dateNaisse>
+				<Filliere>LSI</Filliere>
+				<nationalite>Burkinabe</nationalite>
+			  </etudiant>
+			  <etudiant sexe="Masculin" readmission="oui">
+				<nom>KONFE</nom>
+				<prenom>Fatogoma</prenom>
+				<dateNaisse>07/06/1992</dateNaisse>
+				<Filliere>GMP</Filliere>
+				<nationalite>Togolais</nationalite>
+			  </etudiant>
+			  <etudiant sexe="Masculin" readmission="oui">
+				<nom>DIARRA</nom>
+				<prenom>Aboudramane</prenom>
+				<dateNaisse>15/03/1995</dateNaisse>
+				<Filliere>Columbia</Filliere>
+				<nationalite>Droit</nationalite>
+			  </etudiant>
+			  <etudiant sexe="Feminin" readmission="oui">
+				<nom>TAO</nom>
+				<prenom>Mariam</prenom>
+				<dateNaisse>01/04/1996</dateNaisse>
+				<Filliere>Pharmacie</Filliere>
+				<nationalite>Burkinabe</nationalite>
+			  </etudiant>
+			  <etudiant sexe="Masculin" readmission="non">
+				<nom>COULIBALY</nom>
+				<prenom>Rachide</prenom>
+				<dateNaisse>06/06/1996</dateNaisse>
+				<Filliere>ESI</Filliere>
+				<nationalite>Burkinabe</nationalite>
+			  </etudiant>
+			  <etudiant sexe="Feminin" readmission="non">
+				<nom>SANOU</nom>
+				<prenom>Bintou</prenom>
+				<dateNaisse>10/11/1995</dateNaisse>
+				<Filliere>ESI</Filliere>
+				<nationalite>Burkinabe</nationalite>
+			  </etudiant>
+		</beneficiaire>
+		
+		<footer>
+                  Centre Regional des Oeuvres universitaires de Bobo-Dioulasso                
+    </footer>
+
+</hebergement>
+
+

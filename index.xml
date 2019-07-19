@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/index-xsl.xslt"?>
+<!DOCTYPE croub SYSTEM "croub-DTD.dtd">
+<croub>
+	<header>
+		<header-menu url="index.xml">
+			<titre>Accueil</titre>
+		</header-menu>
+		
+		<header-menu url="restauration.xml">
+			<titre>Restauration</titre>
+		</header-menu>
+		
+		<header-menu url="hebergement.xml">
+			<titre>Hebergement</titre>
+		</header-menu>
+		<header-menu url="sante.xml">
+			<titre>Service sanitaire</titre>
+		</header-menu>
+	</header>
+	<nav>
+		<rubrique nom="Accueil">
+			<label>Bienvenu sur le site web du CROUB </label>
+			<image>images/croub/directeur.jpg</image>
+			<contenu>
+				
+				<message>
+					Les oeuvres universitaires ont une grande importance dans la réussite des activités académiques. En effet, la santé, 
+					la restauration, l'hébergement, le transport, les activités sportives et socioculturelles sont des prestations nécessaires à la vie du 
+					plus grand nombre de nos étudiants dont les origines sociales ou géographiques ne sont pas toujours avantageuses. En assurant 
+					aux étudiants l'équité dans leur parcours universitaire, le CROUB contribue à l'amélioration de la qualité de 
+					l'enseignement supérieur.
+					L'implication des membres du conseil d'administration, ainsi que celle de l'ensemble de tous nos partenaires sociaux du public 
+					et du privé constituent de véritables atouts pour l'atteinte des objectifs qui nous ont été assignés par le Ministère en charge de
+					l'Enseignement supérieur.
+					</message>
+				
+			</contenu>
+		</rubrique>
+		<rubrique nom="Presentation">
+			
+			<contenu>
+				<contenu-titre1>Vision du CROUB: </contenu-titre1>
+				<message-contenu>
+					La vision  du CROUB pour  la décennie  2013-2022 (plan stratégique),  est  celle  de la mise en œuvre du programme 4 du plan 
+					national d'action pour le développement de l'enseignement supérieur (PNADES), et par-delà, l’atteinte des Objectifs fixés par la 
+					SCADD ainsi que ceux du millénaire pour le développement.
+					</message-contenu>
+				<contenu-titre1>Mission du CROUB :</contenu-titre1>
+				<message-contenu>
+                         Le CROUB a pour mission de gérer les œuvres universitaires en faveur des étudiants inscrits dans les établissements 
+                         d’enseignement supérieur publics et privés conventionnés du Burkina Faso.
+                        </message-contenu>
+
+			</contenu>
+		</rubrique>
+		
+	</nav>
+	<footer>
+                  Centre Regional des oeuvres universitaires de Bobo-Dioulasso                
+    </footer>
+</croub>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/sante-xsl.xslt"?>
+<croub>
+<header>
+		<header-menu url="index.xml">
+			<titre>Accueil</titre>
+		</header-menu>
+		
+		<header-menu url="restauration.xml">
+			<titre>Restauration</titre>
+		</header-menu>
+		
+		<header-menu url="hebergement.xml">
+			<titre>Hebergement</titre>
+		</header-menu>
+		<header-menu url="sante.xml">
+			<titre>Service sanitaire</titre>
+		</header-menu>
+	</header>
+	
+	<sante>
+			<label>Service Sanitaire</label>
+					
+			<organisation>
+			                Les prestations de santé du CROUB sont organisées principalement autour de deux directions : la Direction des services 
+			                de santé et de l’action sociale (DSSAS) et la Direction de la Mutuelle Nationale de Santé des étudiants du Burkina 
+			                (MUNASEB).
+			                
+			                La DSSAS contribue à la mise en œuvre de la politique nationale de santé au profit des étudiants.
+			                La DSSAS assure les visites médicales classiques. Elle dispose également d'un laboratoire d'analyses médicales, d'un 
+			                dépôt pharmaceutique, d'équipements pour les soins dentaires et ophtalmologiques, de salles d'hospitalisation et d'une 
+			                ambulance pour les évacuations en cas d'urgence.
+			</organisation>
+			 
+   </sante>
+   
+   <footer>
+                  Centre Regional des Oeuvres universitaires de Bobo-Dioulasso                
+    </footer>
+
+</croub>
+
+

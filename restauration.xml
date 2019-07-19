@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/restauration-xsl.xslt"?>
+<croub>
+
+<header>
+		<header-menu url="index.xml">
+			<titre>Accueil</titre>
+		</header-menu>
+		
+		<header-menu url="restauration.xml">
+			<titre>Restauration</titre>
+		</header-menu>
+		
+		<header-menu url="hebergement.xml">
+			<titre>Hebergement</titre>
+		</header-menu>
+		<header-menu url="sante.xml">
+			<titre>Service sanitaire</titre>
+		</header-menu>
+	</header>
+	
+	<restaurant>
+			<label>La restauration</label>
+			
+			<libelle>
+			              Les restaurants universitaires dénommés "R U" dans le langage des étudiants sont ouverts à  tous les étudiants burkinabé 
+			              régulièrement inscrits dans les universités publiques. Les étudiants étrangers qui le désirent peuvent aussi avoir y accès 
+			              après avoir honoré les frais des œuvres universitaires.
+			</libelle>
+			
+			<menu-titre>LES MENUS DANS NOS RESTAURANTS UNIVERSITAIRES</menu-titre>
+			
+			<menu>
+					La gestion des restaurants universitaires   a connu une grande évolution depuis la création du CENOU: gestion publique – 
+					gestion semi publique – gestion privée.
+					
+					A la faveur d’une concurrence née de la gestion privée et de la politique de sensibilisation du CENOU par rapport aux mets 
+					locaux, l’étudiant peut de nos jours opérer le choix entre deux à huit menus par repas selon les restaurants universitaires. A titre 
+					indicatif on peut trouver dans nos restaurants universitaires.
+					
+					×         le riz, préparé sous plusieurs formes: riz au soumbala, riz au gras, riz blanc à la sauce tomate, sauce légume ou sauce pâte d'arachide
+ 
+×          les pâtes alimentaires
+ 
+×          le hamburger – les sandwichs – la soupe de poisson ou jarret
+ 
+×          le couscous arabe – couscous de petit mil – couscous de riz
+ 
+×          le fonio avec sauce – le gonré de fonio
+ 
+×         le  gonré au haricot .....
+			</menu>
+				
+				<organisation-titre>LA QUALITE DES REPAS AU RESTAURANT UNIVERSITAIRE</organisation-titre>	
+			<organisation>
+			               Au CROUB les repas du restaurant universitaire sont préparés par des prestataires privés liés  par un contrat de gestion dans le respect strict des normes en vigueur de la restauration collective : respect de l’hygiène des lieux, hygiène du personnel, hygiène de la cuisson, hygiène du service, respect des normes du stock des produits et des denrées fraîches etc…
+ 
+Par ailleurs, le Laboratoire National de Santé Publique (LNSP) appuie le CROUB dans le contrôle des repas servis par l’analyse biochimique des aliments, l’hygiène des lieux, des eaux utilisées pour la plonge…
+ 
+Ce laboratoire conseille également les prestataires des restaurants universitaires, les oriente vers un certain professionnalisme de la réalisation de leur activité.
+ 
+Enfin, un comité de restauration, composé de l’administration du CROUB, des représentants des différentes structures syndicales des étudiants, des délégués des cités et des prestataires des restaurants universitaires, veille à la qualité des repas, des prestations des restaurateurs en général. Il fait des propositions à la direction générale du CROUB sur toutes les questions liées à l’amélioration des prestations des restaurants universitaires. C’est la courroie de transmission entre les étudiants les restaurateurs et l’administration du CROUB.
+			</organisation>
+			
+			<tarif-titre>LES TARIFS DANS NOS RESTAURANTS UNIVERSITAIRES</tarif-titre>
+			<tarif>
+			           Les repas étant subventionnés par l’état, l’étudiant paie cent (100) francs CFA pour acquérir un ticket qui lui permet d'y accéder.
+			</tarif>
+			 
+   </restaurant>
+   
+   <footer>
+                  Centre Regional des Oeuvres universitaires de Bobo-Dioulasso                
+    </footer>
+
+</croub>
+
+
